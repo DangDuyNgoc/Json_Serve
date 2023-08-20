@@ -1,0 +1,5 @@
+1. tạo project: npm init
+2. cài đặt json-server vào project: npm i json-server
+3. vào thư mục package.json: thêm dòng lệnh: 
+    "start": "json-server --watch db.json" vào "script"
+4. terminal chạy dòng lệnh: npm start
